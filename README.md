@@ -1,1 +1,1 @@
-A simple Body - Mass index Calculator App 
+A Body - Mass index Calculator App made in Android Studio
